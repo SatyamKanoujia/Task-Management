@@ -42,6 +42,13 @@ After cloning this repository, migrate to ```task_management``` folder. Then, fo
 
 Then run the following commands to run your app:
 
+### Client Side
+```bash
+  flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+```
+
 ### Server Side
 ```bash
   cd server
@@ -49,13 +56,6 @@ Then run the following commands to run your app:
   npm run dev (for continuous development)
   OR
   npm start (to run script 1 time)
-```
-
-### Client Side
-```bash
-  flutter pub get
-  open -a simulator (to get iOS Simulator)
-  flutter run
 ```
 
 ## Tech Used
