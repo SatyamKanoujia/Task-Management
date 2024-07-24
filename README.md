@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/SatyamKanoujia/amazone_clone/assets/126379275/5573c899-941b-4600-bada-c3764b46c6bc.png" width="450" height="250">
+ <img src="https://github.com/user-attachments/assets/e1f6df9a-8e37-4609-8420-eb79c2cb5f43" width="450" height="250">
 </p>
 
 # Task Management App
