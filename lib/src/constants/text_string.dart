@@ -1,6 +1,6 @@
 const String tAppName = ".Task Management/";
 
-String uri = 'http://192.168.152.97:3000';
+String uri = 'Your IP Address';
 
 const String tLogin = "Login";
 const String tSingup = "Signup";
