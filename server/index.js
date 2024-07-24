@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const bodyParser = require('body-parser');
 
 const app = express();
-const DB = "mongodb+srv://skanoujia9:noobmaster69@cluster0.nqp9tky.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const DB = "your db link";
 
 const authRouter = require("./routes/auth");
 const taskRouter = require("./routes/task");
