@@ -15,24 +15,67 @@ Welcome to the Task Management System project! This application is designed to s
 - **Profile Management**: Users can update their profile information, ensuring their details are always current.
 - **Responsive Design**: A user-friendly interface that adapts to various screen sizes, ensuring accessibility across all devices.
  
-## Screenshots
- - User Side
+## Snapshots
 
-|Splash Screen|Welcome Screen|Sign Up|Sign In|
-|--|--|--|--|
-|![](https://github.com/user-attachments/assets/44b7cbdb-bfbe-429e-b06d-fc2a63f9a4b6)|![](https://github.com/user-attachments/assets/21dac582-04e8-4580-bf7e-7bfd5fc64fe8)|![](https://github.com/user-attachments/assets/e312b7ad-d261-4c8d-80b6-9f5539d1df6d)|![](https://github.com/user-attachments/assets/e91a1424-96ab-46c5-a970-0f2231ed4c3d)|
+<table>
+  <tr>
+    <td>Splash Screen</td>
+    <td>Welcome Screen</td>
+    <td>Sign Up</td>
+    <td>Sign In</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/44b7cbdb-bfbe-429e-b06d-fc2a63f9a4b6" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/21dac582-04e8-4580-bf7e-7bfd5fc64fe8" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/e312b7ad-d261-4c8d-80b6-9f5539d1df6d" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/e91a1424-96ab-46c5-a970-0f2231ed4c3d" width="200" height="400"></td>
+  </tr>
+</table>
 
-|Home Screen|Add Task|Date Picker|Time Picker|
-|--|--|--|--|
-|![](https://github.com/user-attachments/assets/24051be1-16c8-4ae1-8f80-777ea8177e22)|![](https://github.com/user-attachments/assets/55baa8db-56c7-40ed-83a7-3b4f94d8ba1d)|![](https://github.com/user-attachments/assets/f4b32d66-e44f-4db6-b6ef-a228f5d116f4)|![](https://github.com/user-attachments/assets/c90cecbc-92ed-4f1b-a6c1-defb44296d20)|
+<table>
+  <tr>
+    <td>Home Screen</td>
+    <td>Add Task</td>
+    <td>Date Picker</td>
+    <td>Time Picker</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/24051be1-16c8-4ae1-8f80-777ea8177e22" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/55baa8db-56c7-40ed-83a7-3b4f94d8ba1d" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/f4b32d66-e44f-4db6-b6ef-a228f5d116f4" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/c90cecbc-92ed-4f1b-a6c1-defb44296d20" width="200" height="400"></td>
+  </tr>
+</table>
 
-|Task Added|Update Task|Completed Task|Side Bar|
-|--|--|--|--|
-|![](https://github.com/user-attachments/assets/7f693262-895e-4aff-9916-d880b2496b01)|![](https://github.com/user-attachments/assets/219c1024-dae4-44c0-8a20-9592fde00b1e)|![](https://github.com/user-attachments/assets/299bf4af-36b2-457b-8ac8-5e263c7c0dc1)|![](https://github.com/user-attachments/assets/80da5836-8169-4e6b-be24-7490cb22a91e)|
+<table>
+  <tr>
+    <td>Task Added</td>
+    <td>Update Task</td>
+    <td>Completed Task</td>
+    <td>Side Bar</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7f693262-895e-4aff-9916-d880b2496b01" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/219c1024-dae4-44c0-8a20-9592fde00b1e" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/299bf4af-36b2-457b-8ac8-5e263c7c0dc1" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/80da5836-8169-4e6b-be24-7490cb22a91e" width="200" height="400"></td>
+  </tr>
+</table>
 
-|Profile Section|Monitoring Section|Task Status of Others|Assigning Task|
-|--|--|--|--|
-|![](https://github.com/user-attachments/assets/5afa0954-bcde-4e5d-b058-d1d8e239507a)|![](https://github.com/user-attachments/assets/b5be969a-782f-4786-ae46-cebf31ddb022)|![](https://github.com/user-attachments/assets/c3dd907c-5560-469b-a951-a7c94ddaf789)|![](https://github.com/user-attachments/assets/4aaaf93d-d6dd-4e74-a26b-4e3a03d3c6ee)|
+<table>
+  <tr>
+    <td>Profile Section</td>
+    <td>Monitoring Section</td>
+    <td>Task Status of Others</td>
+    <td>Assigning Task</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5afa0954-bcde-4e5d-b058-d1d8e239507a" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/b5be969a-782f-4786-ae46-cebf31ddb022" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/c3dd907c-5560-469b-a951-a7c94ddaf789" width="200" height="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/4aaaf93d-d6dd-4e74-a26b-4e3a03d3c6ee" width="200" height="400"></td>
+  </tr>
+</table>
 
 ## Running Locally
 After cloning this repository, migrate to ```task_management``` folder. Then, follow the following steps:
